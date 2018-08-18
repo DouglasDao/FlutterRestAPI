@@ -1,6 +1,6 @@
 # Flutter RESt API
 
-RestAPI integration in Flutter
+Simple REST API integrated
 
 ## Getting Started
 
