@@ -1,4 +1,4 @@
-# flutter_rest_api
+# Flutter RESt API
 
 RestAPI integration in Flutter
 
